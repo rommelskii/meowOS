@@ -1,0 +1,8 @@
+picom &
+nitrogen --restore &
+tint2 -c ~/.config/tint2/repentance/repentance.tint2rc &
+pnmixer &
+discord &
+cairo-dock &
+xinput --set-prop 16 'libinput Accel Speed' -1 &
+xinput --set-prop 16 "Coordinate Transformation Matrix" 2.0 0 0 0 2.0 0 0 0 1
